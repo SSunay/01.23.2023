@@ -1,0 +1,22 @@
+.footer{
+    // background-image: url(src/images/back-ground-1.jpg);
+    width: 100%;
+    height: 700px;
+    .footerImg{
+        margin-top: 90px;
+         img{
+        width: 100%;
+        height: 700px;
+        opacity: 0.6;    
+    }
+    }
+    .footertext{
+        position: relative;
+        bottom: 350px;
+        left: 300px;
+        p{
+            font-size: 20px;
+        }
+    }
+   
+}

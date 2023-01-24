@@ -1,0 +1,43 @@
+.practiceArea2{
+    // background-color: #f8f9fa;
+    display: flex;
+    margin: 50px 0px 0px 0px;
+    justify-content: space-around;
+    .img_1{
+        width: 302px;
+        height: 428px;
+        img{
+            width: 302px;
+            height: 428px;
+        }
+    }
+    .img_2{
+        width: 302px;
+        height: 428px;
+        img{
+            width: 302px;
+            height: 428px;
+        }
+    }
+    .textpart{
+        width: 350px;
+            height: 468px;
+            h1{
+                font-weight: 400;
+            }
+            p{
+                font-weight: 300;
+            }
+    }
+    .staticBtn{
+        padding: 10px 15px;
+        border-radius: 4px;
+        background-color: #f3c678;
+        border: none;
+        transition: 0.5s;
+        &:hover{
+        background-color: #fae0b2;
+
+        }
+    }
+}

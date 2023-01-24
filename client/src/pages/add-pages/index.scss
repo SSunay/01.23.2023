@@ -1,0 +1,20 @@
+.input{
+    text-align: center;
+    input{
+        width: 500px;
+        padding: 10px 8px;
+        border-radius: 6px;
+        border: none;
+        background-color: #f8c670;
+    }
+    .btn{
+        padding: 10px 17px;
+        background-color: #5969f3;
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+    .error{
+        color: rgb(255, 0, 51);
+    }
+}

@@ -1,0 +1,29 @@
+.staticpart2{
+    margin: 150px 0px 0px 0px;
+    display: flex;
+    column-gap: 50px;
+    justify-content: space-around;
+    .staticimg{
+        width: 350px;
+        height: 495px;
+        img{
+            width: 350px;
+            height: 495px;
+        }
+    }
+    .statictext{
+        width: 350px;
+        height: 495px;
+        h1{
+            font-weight: 400;
+        }
+        p{
+            font-weight: 400;
+            font-size: 15px;
+        }
+    }
+    .accordionpart{
+        width: 350px;
+        // height: 495px;
+    }
+}

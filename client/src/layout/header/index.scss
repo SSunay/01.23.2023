@@ -1,0 +1,30 @@
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fee2b3;
+    padding: 20px 10px;
+    .logo{
+        margin: 20px 0px 0px 0px ;
+        font-size: 30px;
+        a{
+            text-decoration: none;
+            color: black;
+        }
+    }
+    .navLinks{
+        display: flex;
+        padding-right: 30px;
+        
+        ul{
+            
+            li{
+                list-style: none;
+                a{
+                    text-decoration: none;
+                    color: black;
+                }
+           
+            }
+        }
+    }
+}
